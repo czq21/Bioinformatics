@@ -10,7 +10,8 @@
 ## Bioinformatics: Decoding the language of life
 0. **Question: Biological/Medical Knowledge**
 1. **Information: Biological/Medical Data**
-  * **Data: Sequences**
+     * **Data: Sequences**
+     * 
   * Sequencing Technologies: Human Genome Project
   * NGS: DNA-seq, RNA-seq, Epigenetics, Interaction
 2. **Analysis: Data Clean and Feature Extraction**
