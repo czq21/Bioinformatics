@@ -11,13 +11,12 @@
 0. **Question: Biological/Medical Knowledge**
 1. **Information: Biological/Medical Data**
      * **Data: Sequences**
-     * 
-  * Sequencing Technologies: Human Genome Project
-  * NGS: DNA-seq, RNA-seq, Epigenetics, Interaction
+     * Sequencing Technologies: Human Genome Project
+     * NGS: DNA-seq, RNA-seq, Epigenetics, Interaction
 2. **Analysis: Data Clean and Feature Extraction**
 3. **Modeling: Probabilistic Model and Computational Algorithm**
-  * **Model: 数据驱动的一种数学或统计学表示。** eg. Regression Model, Neural Network Model
-  * **Algorithm: 解决问题的具体循环或迭代。**
+   * **Model: 数据驱动的一种数学或统计学表示。** eg. Regression Model, Neural Network Model
+   * **Algorithm: 解决问题的具体循环或迭代。**
 ## The Fourth Paradigm: Data Driven
 ## 学习计划
 * 利用课程、网络资源熟悉练习linux操作系统
