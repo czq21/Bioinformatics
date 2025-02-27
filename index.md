@@ -16,6 +16,5 @@
 2. **Analysis: Data Clean and Feature Extraction**
 3. **Modeling: Probabilistic Model and Computational Algorithm**
 
----
-* Model: 数据驱动的一种数学或统计学表示。 eg. Regression Model, Neural Network Model
-* Algorithm: 解决问题的具体循环或迭代。
+* **Model: 数据驱动的一种数学或统计学表示。** eg. Regression Model, Neural Network Model
+* **Algorithm: 解决问题的具体循环或迭代。**
