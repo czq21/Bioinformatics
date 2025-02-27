@@ -9,8 +9,6 @@
 * *C/C++: speed*
 ## Bioinformatics: Decoding the language of life
 0. Question: Biological/Medical Knowledge
-
-三大技术：Robot, Nanotech, Genetics
 1. Information: Biological/Medical Data
 * **Sequences**
 * Sequencing Technologies: Human Genome Project
